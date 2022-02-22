@@ -1,0 +1,3 @@
+Minimum value: 20; maximum value: 30
+Minimum value: 10; maximum value: 100
+Minimum value: -45; maximum value: -15
